@@ -1,2 +1,0 @@
-# Promma
-Service managment system.
